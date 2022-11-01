@@ -1,7 +1,7 @@
 ![](https://github.com/corsinlo/corsinlo/blob/main/ezgif.com-gif-maker.gif)
 
 ## 👋 &nbsp;Hi there 👋
-I'm a developer from Italy. Univeristy of Cincinnati and Arizona State University Almuni. Former Apple Employee and Google contractor. I enjoy stress myself out in learning every possible application of JS/Java as well as giving myself headaches with algorithms. Always waiting for the next exciting challenge or project!
+I'm a developer from Italy. University of Cincinnati and Arizona State University Almuni. Former Apple Employee and Google contractor. I enjoy stress myself out in learning every possible application of JS/Java as well as giving myself headaches with algorithms. Always waiting for the next exciting challenge or project!
 
 
 &nbsp;
