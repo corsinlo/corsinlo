@@ -8,7 +8,7 @@ I'm a developer from Italy. University of Cincinnati and Arizona State Universit
 
 ## 👇 &nbsp;Current project
 
-I'm currently working in building the next greatMarketplace for Solana in [@astek](https://astek.io/)
+I'm currently working in building the next great Marketplace [@astek](https://astek.io/)
 
 ## 😄 &nbsp;Pronouns: 
 He/Him "Ludo"
