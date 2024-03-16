@@ -8,7 +8,7 @@ I'm a developer from Italy. University of Cincinnati and Arizona State Universit
 
 ## 👇 &nbsp;Current project
 
-I'm currently working in building the next great Marketplace [@allor] and an amaziong platform for exciting experiences in your city [@clubjoy](https://wwww.clubjoy.it)
+I'm currently working in building the next great Marketplace [@allor] and an amaziong platform for exciting experiences in your city [@clubjoy](clubjoy.it)
 
 ## 😄 &nbsp;Pronouns: 
 He/Him "Ludo"
