@@ -1,19 +1,19 @@
 ![](https://github.com/corsinlo/corsinlo/blob/main/ezgif.com-gif-maker.gif)
 
 ## 👋 &nbsp;Hi there 👋
-I'm a developer from Italy. University of Cincinnati and Arizona State University Almuni. Former Apple Employee and Google contractor. I enjoy stress myself out in learning every possible application of JS/Java as well as giving myself headaches with algorithms. Always waiting for the next exciting challenge or project!
+I'm a developer from Italy. University of Cincinnati and Arizona State University Almuni. Former Apple Employee and Google contractor, now SWE at Ebay Italy for the Certilogo team! I enjoy stress myself out in learning every possible application of JS/Java as well as giving myself headaches with algorithms. Always waiting for the next exciting challenge or project!
 
 
 &nbsp;
 
 ## 👇 &nbsp;Current project
 
-I'm currently working in building the next great Marketplace [@astek](https://astek.io/)
+I'm currently working in building the next great Marketplace [@allor] and an amaziong platform for exciting experiences in your city [@clubjoy](https://wwww.clubjoy.it)
 
 ## 😄 &nbsp;Pronouns: 
 He/Him "Ludo"
-## 📫 &nbsp;How to reach me: 
-[Linkedln](https://www.linkedin.com/in/ludovico-corsini-419384114/)
+## 📫 &nbsp;How to reach me (Always love to work on freelance or Open Source project in my Downtime): 
+[Linkedln](https://www.linkedin.com/in/ludovico-corsini/)
 
 <!--
 **corsinlo/corsinlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
